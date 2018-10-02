@@ -411,4 +411,11 @@ footer {
     .nav-link :nth-last-child(5) {
         margin-bottom: 500px !important;
     }
+    .contact__block,footer, .training,.features,.feature__item,.photo__block, .feature__head {
+        margin:0;
+        padding: 0;
+
+    }
+
 }
+
