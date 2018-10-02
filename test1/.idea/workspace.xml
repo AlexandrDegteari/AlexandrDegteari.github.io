@@ -10,14 +10,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5140625">
+    <splitter split-orientation="horizontal" split-proportion="0.6148437">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="697">
-                  <caret line="168" column="40" lean-forward="true" selection-start-line="168" selection-start-column="40" selection-end-line="168" selection-end-column="40" />
+                <state relative-caret-position="3400">
+                  <caret line="200" column="55" lean-forward="true" selection-start-line="200" selection-start-column="55" selection-end-line="200" selection-end-column="55" />
                 </state>
               </provider>
             </entry>
@@ -29,8 +29,8 @@
           <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="731">
-                  <caret line="414" column="17" lean-forward="true" selection-start-line="414" selection-start-column="17" selection-end-line="414" selection-end-column="17" />
+                <state relative-caret-position="7565">
+                  <caret line="445" column="4" lean-forward="true" selection-start-line="445" selection-start-column="4" selection-end-line="445" selection-end-column="4" />
                 </state>
               </provider>
             </entry>
@@ -131,12 +131,12 @@
       <workItem from="1538417350041" duration="6981000" />
       <workItem from="1538425215217" duration="8062000" />
       <workItem from="1538468163237" duration="20795000" />
-      <workItem from="1538497932393" duration="14148000" />
+      <workItem from="1538497932393" duration="19046000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61973000" />
+    <option name="totallyTimeSpent" value="66871000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="181" width="1296" height="1010" extended-state="6" />
@@ -276,17 +276,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/../Creatives/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="168" column="40" lean-forward="true" selection-start-line="168" selection-start-column="40" selection-end-line="168" selection-end-column="40" />
+        <state relative-caret-position="357">
+          <caret line="357" column="34" selection-start-line="357" selection-start-column="34" selection-end-line="357" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="414" column="17" lean-forward="true" selection-start-line="414" selection-start-column="17" selection-end-line="414" selection-end-column="17" />
+        <state relative-caret-position="7565">
+          <caret line="445" column="4" lean-forward="true" selection-start-line="445" selection-start-column="4" selection-end-line="445" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3400">
+          <caret line="200" column="55" lean-forward="true" selection-start-line="200" selection-start-column="55" selection-end-line="200" selection-end-column="55" />
         </state>
       </provider>
     </entry>
