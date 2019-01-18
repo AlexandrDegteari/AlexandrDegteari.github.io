@@ -1,0 +1,72 @@
+@media (min-width: 2500px) and (max-width: 3000px) {
+
+}
+
+@media (min-width: 2000px) and (max-width: 2499px) {
+
+}
+
+@media (max-width: 1500px) {
+
+}
+
+@media (max-width: 1300px) {
+
+}
+
+@media (max-width: 1220px) {
+
+}
+
+@media (max-width: 1100px) {
+  
+}
+
+@media (max-width: 1024px) {
+    body,
+    header,
+    footer,
+    #contents section {
+        width: 1024px;
+    }
+}
+
+@media (max-width: 990px) and (min-width: 900px) {
+    .modal-dialog {
+        width: 800px;
+        margin: 10px;
+    }
+}
+
+@media (max-width: 900px) {
+    .modal-dialog {
+        width: auto;
+        margin: 10px;
+    }
+    .modal-body .close {
+        top:2px;
+        right:2px;
+        background-color: #6a6a6a;
+    }  
+    .modal-body .close i {
+        font-size: 24px;
+        vertical-align: bottom;
+        line-height: 30px;
+    }      
+}
+
+@media (max-width: 767px) {
+
+}
+
+@media (max-width: 640px) {
+
+}
+
+@media (max-width: 598px) {
+
+
+}
+@media (max-width: 320px) {
+
+}

@@ -1,0 +1,106 @@
+@font-face {
+  font-family: 'icons';
+  src:  url('fonts/icons.eot?6ufkfj');
+  src:  url('fonts/icons.eot?6ufkfj#iefix') format('embedded-opentype'),
+    url('fonts/icons.ttf?6ufkfj') format('truetype'),
+    url('fonts/icons.woff?6ufkfj') format('woff'),
+    url('fonts/icons.svg?6ufkfj#icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icons' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-arrow-right:before {
+  content: "\e903";
+}
+.icon-bell-mark:before {
+  content: "\e901";
+}
+.icon-arrow-long-right:before {
+  content: "\e906";
+}
+.icon-arrow-short-down:before {
+  content: "\e902";
+  color: #4a4a4a;
+}
+.icon-arrow-long-down:before {
+  content: "\e900";
+  color: #4a4a4a;
+}
+.icon-arrow-m-up:before {
+  content: "\e802";
+}
+.icon-arrow-m-down:before {
+  content: "\e803";
+}
+.icon-arrow-m-left:before {
+  content: "\e804";
+}
+.icon-arrow-m-right:before {
+  content: "\e805";
+}
+.icon-mail-rect:before {
+  content: "\e808";
+}
+.icon-close-thin:before {
+  content: "\e60b";
+}
+.icon-magnifying-glass-left:before {
+  content: "\e623";
+}
+.icon-magnifying-glass-short-left:before {
+  content: "\e002";
+}
+.icon-magnifying-glass-short-right:before {
+  content: "\e001";
+}
+.icon-magnifying-glass-right:before {
+  content: "\e600";
+}
+.icon-line:before {
+  content: "\e614";
+}
+.icon-facebook:before {
+  content: "\e615";
+}
+.icon-google-plus:before {
+  content: "\e616";
+}
+.icon-twitter:before {
+  content: "\e617";
+}
+.icon-close:before {
+  content: "\e61a";
+}
+.icon-arrow-thin-left:before {
+  content: "\e648";
+}
+.icon-arrow-thin-up:before {
+  content: "\e64b";
+}
+.icon-arrow-thin-down:before {
+  content: "\e64a";
+}
+.icon-arrow-thin-right:before {
+  content: "\e649";
+}
+.icon-instagram:before {
+  content: "\e610";
+}
+.icon-menu:before {
+  content: "\e606";
+}
