@@ -1,0 +1,546 @@
+html, body, input, button, select, textarea {
+    padding: 0;
+    background-color: #fff;
+    color: #001f3e;
+    line-height: 1.3;
+    font-family: "Yu Gothic, メイリオ", Meiryo, "游明朝", "ヒラギノ角ゴ Pro", "Hiragino Kaku Gothic Pro", "Yu Mincho", "ヒラギノ明朝 Pro W3", "HiraMinProN-W3", Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+    font-size: 16px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Hiragino Mincho Pro W3", "ヒラギノ明朝 Pro W3", "Sawarabi Mincho", "MS Mincho", sans-serif;
+    line-height: 1.3;
+    font-size: 1em;
+    /*font-weight: 700;*/
+
+}
+
+.b-block {
+    position: relative;
+    padding: 0 10px;
+}
+
+img {
+    max-width: 100%;
+}
+
+.logo {
+    width: 100%;
+}
+
+.hide {
+    display: none;
+}
+
+.hide_pc {
+    display: none;
+}
+
+.margin-auto {
+    margin: auto;
+}
+
+header .block1 {
+    background-color: #0075c9;
+    color: #fff;
+    padding: 49px;
+    margin: auto;
+}
+
+header .block2 h1 {
+    color: #fff;
+    font-size: 54px;
+    /*line-height: 66.99px;*/
+
+}
+
+header .block2 {
+    background-color: #00428c;
+    padding: 19px 0 22px 30px;
+    margin: auto;
+}
+
+.background {
+    width: 100%;
+}
+
+.content-center {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.b-section-1 {
+    margin-top: 20px;
+}
+
+.b-section-1 .blocks {
+    opacity: 0.7;
+    color: #fff;
+    background-color: #4c4c4c;
+    margin-top: 39px;
+    background-size: cover;
+
+}
+
+.b-section-1 img.item-1 {
+    padding: 5px;
+    width: 100%;
+    /*min-width: 320px;*/
+    /*height: 100%;*/
+}
+
+/*.b-section-1 .text_block {*/
+/*padding: 0 10px;*/
+/*}*/
+
+.b-section-1 .text {
+    line-height: 1.6;
+}
+
+.b-section-1 .heading {
+    font-weight: bold;
+    margin-top: 30px;
+    font-size: 20px;
+    line-height: 21.67px;
+    letter-spacing: 1.33px;
+}
+
+.b-section-1 .large-text {
+    font-size: 26px;
+    /*font-weight: 700;*/
+    line-height: 48px;
+    min-width: 320px;
+    padding: 31px 19px 0;
+    margin-bottom: 20px;
+}
+
+.b-section-2 .automotive {
+    position: relative;
+    padding: 10px 10px 0;
+    text-align: center;
+    margin-top: 30px;
+
+}
+
+.b-section-2 .automotive h2 {
+    margin-top: 45px;
+    font-size: 20px;
+
+}
+
+.b-section-2 .automotive h3 {
+    margin-top: 10px;
+    font-size: 27px;
+}
+
+.b-section-2 .automotive h4 {
+    margin-top: 10px;
+    font-size: 18px;
+    margin-bottom: 0;
+
+}
+
+.b-section-2 .automotive span {
+    line-height: 1.6;
+    font-size: 19px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+    margin-left: 5px;
+    white-space: nowrap;
+    display: block;
+
+}
+
+.b-section-2 .automotive img {
+    width: 110%;
+    max-width: 110%;
+    margin-left: -97px;
+    /*margin-top: -32px;*/
+    margin-bottom: -72px;
+
+}
+
+.b-section-2 .blocks img {
+    width: 100%;
+
+}
+
+.b-section-2 .japan_text {
+    font-size: 22px;
+    font-family: "Hiragino Mincho Pro W3", "ヒラギノ明朝 Pro W3", "Sawarabi Mincho", "MS Mincho", sans-serif;
+
+}
+
+.b-section-2 .english_text {
+    font-size: 16px;
+    padding-top: 15px;
+}
+
+.b-section-2 img.arrow {
+    width: auto;
+    margin: auto;
+    padding-bottom: 10px;
+}
+
+.b-section-2 .blocks {
+    background: url("../img/s-2-bg.jpg") no-repeat center center;
+    width: 100%;
+    background-size: cover;
+    text-align: center;
+    line-height: 0.8;
+    color: #001f3e;
+    padding: 0 69px;
+
+}
+
+.b-section-2 .block1 {
+    background-color: #fff;
+    box-shadow: 4px 11px 10px rgba(4, 0, 0, 0.15);
+    margin-bottom: -30px;
+    margin-top: 40px;
+
+}
+
+.b-section-2 .block2 {
+    background-color: #fff;
+    box-shadow: 4px 11px 10px rgba(4, 0, 0, 0.15);
+    margin-bottom: -30px;
+    margin-top: 40px;
+
+}
+
+.b-section-2 .list ul {
+    margin-bottom: 0;
+}
+
+.b-section-2 .list {
+    margin-top: 23px;
+}
+
+.b-section-2 .electronics .text_block {
+    padding: 0 10px;
+}
+
+.b-section-2 .automotive .list {
+    margin-top: 33px;
+}
+
+.b-section-2 li {
+    position: relative;
+    list-style: none;
+    margin-bottom: 16px;
+    margin-top: 0;
+    text-align: left;
+    font-size: 12px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.b-section-2 .list li:before {
+    content: '';
+    position: absolute;
+    background: url("../img/icon_list1.png") no-repeat center;
+    width: 16px;
+    height: 16px;
+    left: -32px;
+    bottom: 0;
+}
+
+.b-section-2 .list.second li:before {
+    content: '';
+    position: absolute;
+    background: url("../img/icon_list2.png") no-repeat center;
+    width: 16px;
+    height: 16px;
+    left: -32px;
+    bottom: 0;
+}
+
+.b-section-2 .products img {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.b-section-2 .electronics {
+    background: url("../img/electro-bg.jpg");
+    color: #fff;
+    position: relative;
+    padding: 25px 10px 8px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 32px;
+
+}
+
+.b-section-3 span.english_text {
+    font-size: 16px;
+
+}
+
+.b-section-2 .electronics li {
+    margin-top: 0;
+    margin-bottom: 14px;
+}
+
+.b-section-2 .electronics h2 {
+    font-size: 20px;
+}
+
+.b-section-2 .electronics h3 {
+    font-size: 27px;
+    line-height: 1.1;
+}
+
+.b-section-2 .electronics h4 {
+    line-height: 1.6;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+
+}
+
+.b-section-2 .electronics span {
+    line-height: 1.6;
+    font-size: 19px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    margin-left: 5px;
+    letter-spacing: 1px;
+    white-space: nowrap;
+    display: block;
+
+}
+
+.b-section-3 h2 {
+    text-align: center;
+    font-size: 27px;
+    line-height: 30px;
+
+}
+
+.b-section-3 h3 {
+    text-align: center;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: 0.36px;
+}
+
+.b-section-3 .news p {
+    font-size: 14px;
+    line-height: 28px;
+}
+
+.b-section-3 .news img.left {
+    width: 93%;
+    margin-left: 29px;
+}
+
+.b-section-3 .news img.right {
+    width: 116%;
+    margin-left: -46px;
+    max-width: 130%;
+    margin-top: 74px;
+}
+
+.b-section-3 .news.image_right {
+    margin: 36px 55px 80px 22px;
+}
+
+.b-section-3 .news {
+    margin: 36px 55px 47px 22px;
+}
+
+.b-section-3 .news.image_right .block {
+    padding: 26px 40px 25px;
+    margin-top: 28px;
+    margin-left: 29px;
+    margin-right: 20px;
+    height: auto;
+}
+
+.b-section-3 .block {
+    background: rgba(255, 255, 255, 0.8);
+    box-shadow: 4px 11px 10px rgba(4, 0, 0, 0.15);
+    padding: 25px 22px 25px;
+    position: relative;
+    z-index: 1;
+    height: auto;
+    margin-top: 19px;
+    margin-left: -18px;
+}
+
+.b-section-3 h4 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.b-section-3 .bottom-text {
+    text-align: center;
+    font-size: 18px;
+    line-height: 30px;
+    padding: 0 10px;
+    font-family: "Hiragino Mincho Pro W3", "ヒラギノ明朝 Pro W3", "Sawarabi Mincho", "MS Mincho", sans-serif;
+    margin: 35px 0
+}
+
+.b-section-3 .blue_btn {
+    width: auto;
+
+}
+
+.b-section-3 a:hover {
+    opacity: .8;
+}
+
+.b-section-4 {
+    position: relative;
+    width: 100%;
+    background-color: #0d3f73;
+    /*min-height: 500px;*/
+}
+
+.b-section-4-inner {
+    position: relative;
+    max-width: 606px;
+    height: 100%;
+    text-align: center;
+    color: #fff;
+    padding: 60px 0 0 0;
+    margin: 0 auto;
+    min-height: 546px;
+}
+
+.b-section-4-inner h2 {
+    font-size: 50px;
+    font-weight: 400;
+    margin: 0;
+    padding: 0 0 39px 0;
+    letter-spacing: -1.5px;
+}
+
+.b-section-4-inner p {
+    font-size: 30px;
+    margin: 0;
+    padding: 0 0 0 0;
+}
+
+.b-section-4-inner .type-2 {
+    font-size: 16px;
+    margin: 0;
+    padding: 0 0 0 0;
+}
+
+.b-section-4-inner .type-3 {
+    font-size: 24px;
+    margin: 0;
+    padding: 0 0 0 0;
+}
+
+.b-section-4-inner p a {
+    color: #fff;
+    /*text-decoration: underline;*/
+}
+
+.b-section-4-inner p a:hover {
+    /*text-decoration: none;*/
+}
+
+.b-section-4-inner .line-1 {
+    padding: 0 0 5px 0;
+}
+
+.b-section-4-inner .line-2 {
+    padding: 0 0 1px 0;
+}
+
+.b-section-4-inner .line-3 {
+    padding: 0 0 1px 0;
+}
+
+.b-section-4-inner .line-4 {
+    padding: 0 0 29px 0;
+}
+
+.b-section-4-inner .line-5 {
+    display: inline;
+}
+
+.b-section-4 .logo {
+    display: inline !important;
+}
+
+#footer {
+    margin: -90px 0 0 0;
+    position: relative;
+    clear: both;
+    background-color: #e3e3e3;
+    width: 100%;
+    height: 90px;
+}
+
+#footer .footer-bottom {
+    padding: 0 10px 0 10px;
+    text-align: center;
+    width: 100%;
+    height: 90px;
+}
+
+#footer .copy {
+    color: #22222c;
+    font-family: "Hiragino Mincho Pro W3", "ヒラギノ明朝 Pro W3", "Sawarabi Mincho", "MS Mincho", sans-serif;
+    font-size: 14px;
+    line-height: 6.43;
+    margin: 0;
+    padding: 0;
+    letter-spacing: -0.55px;
+}
+
+#footer .copy a {
+    color: #fff;
+}
+
+#footer .copy .symbol-copy {
+    font-size: 12px;
+    margin: 0 2px;
+}
+
+#go-top {
+    display: none;
+    position: fixed;
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+    bottom: 96px;
+    right: 26px;
+    z-index: 15;
+    text-align: center;
+    text-decoration: none;
+    -webkit-transition: all 0.2s ease 0s;
+    -moz-transition: all 0.2s ease 0s;
+    -ms-transition: all 0.2s ease 0s;
+    -o-transition: all 0.2s ease 0s;
+    transition: all 0.2s ease 0s;
+}
+
+#go-top:hover {
+    background-color: #808080;
+}
+
+#go-top.fixed {
+    position: fixed;
+    bottom: 26px;
+    right: 26px;
+    z-index: 111;
+}
+
+#wrapper {
+    overflow: hidden;
+}
+
+
+
+

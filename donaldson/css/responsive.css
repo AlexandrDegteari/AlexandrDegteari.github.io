@@ -1,0 +1,263 @@
+@media (max-width: 1040px) {
+
+    .b-section-2 .automotive span {
+        line-height: 1.6;
+        font-size: 17px;
+    }
+
+    .b-section-2 .products img {
+        margin-bottom: 12px;
+    }
+}
+
+@media (max-width: 990px) {
+
+    .b-section-2 .english_text {
+        font-size: 14px;
+    }
+
+    .b-section-2 .japan_text {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 878px) {
+
+    .b-section-1 img.item-1 {
+        padding: 10px;
+    }
+
+}
+
+@media (max-width: 767px) {
+
+}
+
+@media (max-width: 678px) {
+    /*section {*/
+    /*padding: 0 10px;*/
+    /*}*/
+    .b-section-1 {
+        margin-top: 0;
+    }
+
+    .b-section-1 img.item-1 {
+        padding: 0;
+        height: 100%;
+    }
+
+    .b-section-1 h2 {
+        font-size: 17px;
+        line-height: 1.8;
+    }
+
+    .b-section-2 img.description {
+        border: #bababa 1px solid;
+    }
+
+    .b-section-2 .block1 {
+        margin-bottom: 30px;
+        margin-top: 30px;
+
+    }
+
+    .b-section-2 .block2 {
+        margin-bottom: 30px;
+        margin-top: 0;
+    }
+
+    .b-section-3 .blue_btn img {
+        width: 95%;
+        margin: 0 auto 40px;
+        display: block;
+    }
+
+    .hide_sp {
+        display: none;
+    }
+
+    .hide_pc {
+        display: block;
+    }
+
+    .b-section-2 .automotive img {
+        margin: 0;
+    }
+
+    .b-section-2 .products img {
+        padding: 5px;
+    }
+
+    /*.b-section-4-inner {*/
+    /*padding: 20px 0 0 0;*/
+    /*}*/
+    .b-section-3 .news img.left {
+        width: 80%;
+        margin-left: 0;
+        float: left;
+        margin-top: 0;
+
+    }
+
+    .b-section-3 .news img.right {
+        width: 80%;
+        margin-left: 0;
+        max-width: 100%;
+        margin-top: 0;
+        float: right;
+    }
+
+    .b-section-3 .block {
+        margin-left: 0;
+        margin-top: -30px;
+    }
+
+    .b-section-3 .news.image_right .block {
+        padding: 25px 22px 12px;
+        margin-right: 0;
+        margin-top: -30px;
+        margin-left: 0;
+    }
+
+    .b-section-3 h3 {
+        /*margin-bottom: 55px;*/
+    }
+
+    .b-section-3 .news {
+        margin: 0;
+    }
+
+    .b-section-3 .news.image_right {
+        margin: 0;
+    }
+
+    .b-section-1 .large-text {
+        font-size: 18px;
+        padding: 10px;
+        margin-bottom: 0;
+        line-height: 1.5;
+    }
+
+    .b-section-1 .blocks {
+        margin-top: 0;
+    }
+
+    .b-section-2 .automotive img {
+        width: 100%;
+    }
+
+    .products .col-6 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .b-section-4-inner .type-3 {
+        font-size: 15px;
+    }
+
+    .b-section-4-inner h2 {
+        font-size: 35px;
+    }
+
+    .b-section-4-inner p {
+        font-size: 25px;
+    }
+
+    .b-section-4-inner .type-2 {
+        font-size: 12px;
+    }
+
+    .b-section-2 .blocks {
+        padding: 0;
+    }
+
+    .b-section-2 .automotive h5 {
+        font-size: 17px;
+    }
+
+    .b-section-4-inner .line-4 {
+        padding: 0 0 10px 0;
+    }
+
+    .b-section-4-inner {
+        padding: 20px 0;
+        min-height: 400px;
+    }
+
+    .b-section-2 .automotive h2 {
+        margin-top: 0;
+    }
+
+    .b-section-1 .text_block {
+        padding: 0 10px;
+    }
+
+    .b-section-2 .automotive {
+        margin-top: 10px;
+    }
+
+    .b-section-2 li {
+        font-size: 15px;
+    }
+
+    .b-section-3 h2 {
+        font-size: 21px;
+    }
+
+    .b-section-3 h3 {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 500px) {
+    .b-section-2 .products img {
+        margin-bottom: 0;
+    }
+
+    .b-section-2 .products {
+        padding: 5px;
+    }
+}
+
+@media (max-width: 450px) {
+    #footer .copy {
+        padding: 0;
+        font-size: 10px;
+        /*line-height: 9.43;*/
+    }
+
+    #footer {
+        margin: -60px 0 -29px 0;
+    }
+
+    #footer .footer-bottom {
+        padding: 0;
+    }
+
+    .b-section-4-inner {
+        min-height: 370px;
+
+    }
+
+    .b-section-4 {
+        min-height: auto;
+    }
+
+    .b-section-4-inner .type-3 {
+        font-size: 13px;
+    }
+
+    .b-section-4-inner h2 {
+        font-size: 30px;
+        padding: 0 0 15px 0;
+    }
+
+    .b-section-4-inner .type-2 {
+        font-size: 10px;
+    }
+
+    .b-section-3 .bottom-text {
+        text-align: center;
+        font-size: 16px;
+    }
+}
